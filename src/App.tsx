@@ -1,16 +1,20 @@
-import { useState } from "react";
 import "./App.css";
 
 function App() {
   return (
     <>
       <div>
-        <span class="mario">
-          <b>MARIO UPSMASH</b>
+        <span className="mario">
+          <b>HEY MARIO UPSMASH IF</b>
         </span>
       </div>
       <div>
-        <img src="../public/upsmash.webp" />
+        <img src="/upsmash.webp" />
+      </div>
+      <div>
+        <span className="mario">
+          <b>IF YOU SUPPORT GAY RIGHTS</b>
+        </span>
       </div>
     </>
   );
