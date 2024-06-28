@@ -5,17 +5,13 @@ function App() {
     <>
       <div>
         <span className="mario">
-          <b>HEY MARIO UPSMASH IF</b>
+          <b>MARIO UPSMASH</b>
         </span>
       </div>
       <div>
         <img src="/upsmash.webp" />
       </div>
-      <div>
-        <span className="mario">
-          <b>IF YOU SUPPORT GAY RIGHTS</b>
-        </span>
-      </div>
+      <div></div>
     </>
   );
 }
